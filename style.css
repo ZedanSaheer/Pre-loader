@@ -15,7 +15,7 @@
 
 .loader:before {
     animation: left-to-right 3s alternate infinite linear;
-    background-image: linear-gradient(to right, transparent, rgb(0, 81, 255), transparent); 
+    background-image: linear-gradient(to right, transparent, black, transparent); 
     bottom:0;
     content: "";
     height: 5vh;
